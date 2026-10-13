@@ -1,0 +1,22 @@
+{
+  "101": {
+    "titulo": "Erro ao realizar login no PLENNA",
+    "prioridade": "alta",
+    "status": "fechado"
+  },
+  "102": {
+    "titulo": "Grafico de gastos nao carrega",
+    "prioridade": "media",
+    "status": "fechado"
+  },
+  "103": {
+    "titulo": "Duvida sobre metas mensais",
+    "prioridade": "baixa",
+    "status": "fechado"
+  },
+  "104": {
+    "titulo": "Compra nao aparece no historico",
+    "prioridade": "alta",
+    "status": "aberto"
+  }
+}
