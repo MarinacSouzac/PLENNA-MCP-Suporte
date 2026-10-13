@@ -1,4 +1,4 @@
-﻿# PLENNA Suporte — MCP para consulta e gerenciamento de chamados
+﻿# PLENNA Suporte - MCP para consulta e gerenciamento de chamados
 
 > Projeto acadêmico de Análise e Desenvolvimento de Sistemas (6º semestre). Implementação demonstrativa, com chamados fictícios e execução local.
 
